@@ -2,6 +2,7 @@
 #include "loading.h"
 #include <string>
 #include <Windows.h>
+#include "adminFunction.h"
 
 using namespace std;
 
